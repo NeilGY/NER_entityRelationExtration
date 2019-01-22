@@ -1,0 +1,2 @@
+# NER_entityRelationExtration
+实体识别和关系抽取的联合模型

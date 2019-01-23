@@ -22,6 +22,9 @@ Heads Relations：
 Adversarial training(AT):  对抗训练 使分类器对于噪音数据有更强的鲁棒性(混合原来的样本+对抗样本)  
 
 
+词向量数据路径：  
+链接: https://pan.baidu.com/s/1P_QtMKKhUdtc0XfOnpSBOw 提取码: 45ic 
+
 2.数据格式描述：  
 #doc 5121  文件名  
 ['token_id', 'token', "BIO", "relation", 'head']  
